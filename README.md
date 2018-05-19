@@ -3,14 +3,18 @@
 # Intro to Data Analysis in Python
 ## PyLadies Vancouver Workshop
 
-### Skill Level
-**Beginner**. A little bit of previous experience with Python or another coding language would be helpful, but not required!
+### Skill Level: Beginner
+A little bit of previous experience with Python or another coding language would be helpful, but not required!
 
 ### Description
 
 In this workshop, you will develop skills with powerful data analysis tools from Python's rich ecosystem of libraries. If you're wrestling with spreadsheets on a regular basis and want to find better ways to analyze and visualize your data, handle messy and missing data, and automate repetitive tasks, this workshop is for you. If you're a software developer or other Python enthusiast who is curious about Python's data analysis capabilities, this workshop is also for you!
 
-Working with real-world data and the [Pandas](https://pandas.pydata.org/) library, you'll learn how to load data from a comma-separated values (csv) file, quickly summarize it from many different angles, and visualize it in graphs&mdash;all with just a few lines of code. You'll also learn how to dive into the data for a deeper analysis with techniques such as subsets, filters, text processing, and aggregation.  
+Working with real-world data and the [Pandas](https://pandas.pydata.org/) library, you'll learn how to load data from a comma-separated values (csv) file, quickly summarize it from many different angles, and visualize it in graphs&mdash;all with just a few lines of code. You'll also learn how to dive into the data for a deeper analysis with techniques such as subsets, filters, text processing, and aggregation.
+
+### Setup
+
+You'll want to bring your laptop for lots of hands-on practice as we work through the lessons and exercises. We'll be using Python 3.6, Jupyter notebook, `pandas`, `matplotlib`, and other libraries. I recommend using Anaconda / Miniconda to set everything up, especially if you're new to Python and/or data analysis is your main reason for using Python. Please check back here later for installation instructions and data download links (coming soon)!
 
 ### Tentative Agenda
 
