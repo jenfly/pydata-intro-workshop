@@ -1,7 +1,16 @@
+**Coming soon in June 2018!** Right now, this repo is mostly just a collection of my notes and brain dumps. Soon this mess will magically morph into slides and exercises for a half-day interactive workshop.
+
 # Intro to Data Analysis in Python
 ## PyLadies Vancouver Workshop
 
-Coming soon in June 2018! Right now, this repo is just a collection of my notes and brain dumps. Soon this mess will magically morph into slides and exercises for a half-day interactive workshop.
+### Skill Level
+**Beginner**. A little bit of previous experience with Python or another coding language would be helpful, but not required!
+
+### Description
+
+In this workshop, you will develop skills with powerful data analysis tools from Python's rich ecosystem of libraries. If you're wrestling with spreadsheets on a regular basis and want to find better ways to analyze and visualize your data, handle messy and missing data, and automate repetitive tasks, this workshop is for you. If you're a software developer or other Python enthusiast who is curious about Python's data analysis capabilities, this workshop is also for you!
+
+Working with real-world data and the [Pandas](https://pandas.pydata.org/) library, you'll learn how to load data from a comma-separated values (csv) file, quickly summarize it from many different angles, and visualize it in graphs&mdash;all with just a few lines of code. You'll also learn how to dive into the data for a deeper analysis with techniques such as subsets, filters, text processing, and aggregation.  
 
 ### Tentative Agenda
 
@@ -21,3 +30,5 @@ Coming soon in June 2018! Right now, this repo is just a collection of my notes 
 
 - Visual storytelling with data: a brief tour of the Python landscape
 - Next steps, ideas, and inspiration
+
+**Credits**: Portions of this workshop's structure and contents are adapted from or inspired by the fantastic [Python for ecologists](http://www.datacarpentry.org/python-ecology-lesson/) instructional materials (Copyright © [Software Carpentry](http://software-carpentry.org/)) made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
