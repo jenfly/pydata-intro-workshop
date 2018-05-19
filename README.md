@@ -1,4 +1,4 @@
-**Coming soon in June 2018!** Right now, the repo is mostly just a collection of my notes and brain dumps. Soon this mess will magically morph into slides and exercises for a half-day interactive workshop.
+**Coming soon in June 2018!** Right now, the Github repo is mostly just a collection of my notes and brain dumps. Soon this mess will magically morph into slides and exercises for a half-day interactive workshop.
 
 # Intro to Data Analysis in Python
 ## PyLadies Vancouver Workshop
