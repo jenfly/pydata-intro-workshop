@@ -14,7 +14,7 @@ Working with real-world data and the [Pandas](https://pandas.pydata.org/) librar
 
 ### Setup
 
-Download workshop materials from: https://github.com/jenfly/pydata-intro-workshop
+Download workshop materials from the [Github repo](https://github.com/jenfly/pydata-intro-workshop).
 
 You'll want to bring your laptop for lots of hands-on practice as we work through the lessons and exercises. We'll be using Python 3.6, Jupyter notebook, `pandas`, `matplotlib`, and other libraries. I recommend using Anaconda to set everything up, especially if you're new to Python and/or data analysis is your main reason for using Python. Please check back here later for installation instructions and data download links&mdash;coming soon...
 
