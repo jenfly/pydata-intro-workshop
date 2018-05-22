@@ -1,4 +1,4 @@
-**Coming soon in June 2018!** Right now, the Github repo is mostly just a collection of my notes and brain dumps. Soon this mess will magically morph into slides and exercises for a half-day interactive workshop.
+**Coming soon in June 2018!** Right now, the Github repo (linked above) is mostly just a collection of my notes and brain dumps. Soon this mess will magically morph into slides and exercises for a half-day interactive workshop.
 
 # Intro to Data Analysis in Python
 ## PyLadies Vancouver Workshop
@@ -14,7 +14,7 @@ Working with real-world data and the [Pandas](https://pandas.pydata.org/) librar
 
 ### Setup
 
-Download workshop materials from the [Github repo](https://github.com/jenfly/pydata-intro-workshop).
+When the slides, data files, and other workshop materials are ready, I'll provide a link here to download them as a zipped folder.
 
 You'll want to bring your laptop for lots of hands-on practice as we work through the lessons and exercises. We'll be using Python 3.6, Jupyter notebook, `pandas`, `matplotlib`, and other libraries. I recommend using Anaconda to set everything up, especially if you're new to Python and/or data analysis is your main reason for using Python. Please check back here later for installation instructions and data download links&mdash;coming soon...
 
