@@ -17,7 +17,7 @@ When the slides, data files, and other workshop materials are ready, I'll provid
 You'll want to bring your laptop for lots of hands-on practice as we work through the lessons and exercises. We'll be using Python 3.6, Jupyter notebook, `pandas`, `matplotlib`, and other libraries. I recommend using Anaconda to set everything up, especially if you're new to Python and/or data analysis is your main reason for using Python. Please check back here later for installation instructions and data download links&mdash;coming soon...
 
 ### Pre-Workshop Survey
-A bit of info about you can help me customize the workshop to best address students' needs and goals. If you'd like to help out by completing a short, anonymous survey, please [click here](https://jenfly.typeform.com/to/sNEFUa).
+A bit of info about you can help me customize the workshop to best address students' needs and goals. If you'd like to help out by completing a short, anonymous survey, please <a href="https://jenfly.typeform.com/to/sNEFUa" target="_blank">click here</a>.
 
 
 ### Tentative Agenda
