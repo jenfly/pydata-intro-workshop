@@ -42,7 +42,8 @@ def parse_latlon(soup):
 
 
 def parse_row(row):
-    """Return a list of the text entries in the row"""
+    """Return a list of items in the row, with some additional processing to
+       clean the text data"""
 
     # First look for header rows
     entries = row.find_all('th')
@@ -51,7 +52,7 @@ def parse_row(row):
     if len(entries) == 0:
         entries = row.find_all('td')
 
-    # List of text entries with extra whitespace stripped from exterior and interior of each string
+    # List of items with extra whitespace stripped from exterior and interior of each string
     items = [re.sub(r'\s+', ' ', entry.text.strip()) for entry in entries]
 
     # Remove non-ascii characters from column names
@@ -107,6 +108,7 @@ def parse_wind(wind_str):
 
 
 def imperial_units(label):
+    """Return True if the label identifies a variable in Imperial units"""
     imperial = False
     for nm in ['(F)', '(inches)', '(mph)', '(mi)']:
         if label.endswith(nm):
@@ -184,6 +186,9 @@ def get_data(station_code, timezone_index=False):
 
     # Drop the extra hour at the end, so that the dataframe is 24 hours long
     data = data[:24]
+
+    # Reverse the row order so that time is increasing down the table
+    data = data.iloc[::-1, :]
 
     # Add station code, station name, lat, lon, timezone, and hour of day
     columns = list(data.columns)
