@@ -30,7 +30,7 @@ def parse_latlon(soup):
     """Return lat, lon parsed from html document"""
     coords = {}
     for nm in ['Latitude', 'Longitude']:
-        regex = nm + ' [0-9]*.[0-9]'
+        regex = nm + ' [0-9]*.[0-9]*'
         matches = re.findall(regex, soup.text)
         if len(matches) == 0:
             raise ValueError('Unable to find latitude')
@@ -84,6 +84,8 @@ def get_timezone(timezone_code):
 
 def parse_temperature(temp_str):
     """Return temperature value parsed from temperature string"""
+    if temp_str.lower() == 'n/a' or temp_str.lower() == 'na':
+        return None
     matches = re.findall('\(.*\)', temp_str)
     if len(matches) == 0:
         raise ValueError(f'Input {temp_str} does not match expected format')
@@ -93,6 +95,9 @@ def parse_temperature(temp_str):
 
 def parse_wind(wind_str):
     """Return wind direction and wind speed parsed from wind string"""
+    if wind_str.lower() == 'n/a' or wind_str.lower() == 'na':
+        return pd.Series([np.nan, np.nan],
+                          index=['Wind Direction', 'Wind Speed (km/hr)'])
     parts = wind_str.split(' ')
     if len(parts) == 1 and parts[0] == 'calm':
         wind_dir = None
