@@ -7,9 +7,9 @@
 A little bit of previous experience with Python or another coding language would be helpful, but not required!
 
 ### Description
-In this workshop, you will develop skills with powerful data analysis tools from Python's rich ecosystem of libraries. If you're wrestling with spreadsheets on a regular basis and want to find better ways to analyze and visualize your data, handle messy and missing data, and automate repetitive tasks, this workshop is for you. If you're a software developer or other Python enthusiast who is curious about Python's data analysis capabilities, this workshop is also for you!
+In this workshop, you will develop skills with powerful data analysis tools from Python's rich ecosystem of libraries. If you're wrestling with spreadsheets on a regular basis and want to find better ways to analyze and visualize your data, handle messy and missing data, and automate repetitive tasks, this workshop is for you. If you're coming from another data analysis environment (R, Matlab, etc.) or you're a Python enthusiast who is curious about Python's data analysis capabilities, this workshop is also for you!
 
-Working with real-world data and the [Pandas](https://pandas.pydata.org/) library, you'll learn how to load data from a comma-separated values (csv) file, quickly summarize it from many different angles, and visualize it in graphs&mdash;all with just a few lines of code. You'll also learn how to dive into the data for a deeper analysis with techniques such as subsets, filters, text processing, and aggregation.
+Working with real-world data and the Pandas library, you'll learn how to load data from a comma-separated values (csv) file, quickly summarize it from many different angles, and visualize it in graphs—all with just a few lines of code. You'll also learn how to dive into the data for a deeper analysis with techniques such as subsets, filters, text processing, and aggregation.
 
 ### Setup
 When the slides, data files, and other workshop materials are ready, I'll provide a link here to download them as a zipped folder.
