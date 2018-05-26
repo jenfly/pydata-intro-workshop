@@ -1,4 +1,4 @@
-# Installation Instructions
+# Computer Setup Instructions
 
 We'll be using Python 3.6, Jupyter notebook, `pandas`, `matplotlib`, and other possibly a few other libraries (TBD). If you're new to Python and/or data analysis is your main reason for using Python, I highly recommend using **Anaconda** to set up your environment. Anaconda is a Python distribution which includes core Python plus a package manager (`conda`) to manage all the 3rd party libraries you'll want to use when analyzing data.
 
