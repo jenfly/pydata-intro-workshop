@@ -11,8 +11,7 @@ You'll need about **3 GB of free disk space** to install the full Anaconda distr
 
 With the full Anaconda distribution, you'll immediately have access to all the main data analysis libraries without having to find and install them yourself. Once you've installed Anaconda, look for a new program called "Anaconda Prompt" on your computer's menu, and run it to bring up a console window as in the screenshot below. You can type `conda list` at the prompt to show what libraries have been installed (it's a long list, so you'll need to scroll up to see the beginning of it, and your list will look a little different from the screenshot due to different versions and extra libraries I have on my system). If you scroll through your list, you should be able to spot `jupyter`, `matplotlib`, `numpy`, and `pandas`, among many others.
 
-<img src="img/screenshots/anaconda_full.png" width="800px"></img>
-
+![Anaconda logo](img/screenshots/anaconda_full.png)
 
 ### Option B: Miniconda
 
