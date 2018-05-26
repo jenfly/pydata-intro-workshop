@@ -26,3 +26,5 @@ Then you can type `conda list` again at the prompt, and confirm that the new lib
 ### Option C: Installation with `pip`
 
 If you already use `pip` and prefer to use it for package management, go forth and do your thing! You'll want a Python 3.6 environment with `ipython`, `jupyter`, `notebook`, `numpy`, `pandas`, `matplotlib`, and `seaborn`.
+
+[back to workshop main page](https://jenfly.github.io/pydata-intro-workshop/)
