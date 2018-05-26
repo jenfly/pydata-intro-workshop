@@ -6,7 +6,7 @@ Below are 3 options for setting up your laptop for the workshop:
 
 ### Option A: Full Anaconda Distribution
 
-This option is the easiest but requires the most disk space. Select the **Python 3.6 version** from the [Anaconda download page](https://www.anaconda.com/download/) and follow the installation instructions for [Windows](https://docs.anaconda.com/anaconda/install/windows) or [Mac](https://docs.anaconda.com/anaconda/install/mac-os).
+This option is the easiest but requires the most disk space. Select the **Python 3.6 version** for your operating system from the [Anaconda download page](https://www.anaconda.com/download/) and follow the installation instructions for [Windows](https://docs.anaconda.com/anaconda/install/windows) or [Mac](https://docs.anaconda.com/anaconda/install/mac-os).
 You'll need about **3 GB of free disk space** to install the full Anaconda distribution (the exact space requirements will be listed when you start the installation process). 
 
 With the full Anaconda distribution, you'll immediately have access to all the main data analysis libraries without having to find and install them yourself. Once you've installed Anaconda, look for a new program called "Anaconda Prompt" on your computer's menu, and run it to bring up a console window as in the screenshot below. You can type `conda list` at the prompt to show what libraries have been installed (it's a long list, so you'll need to scroll up to see the beginning of it, and your list will look a little different from the screenshot due to different versions and extra libraries I have on my system). If you scroll through your list, you should be able to spot `jupyter`, `matplotlib`, `numpy`, and `pandas`, among many others.
