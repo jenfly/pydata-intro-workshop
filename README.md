@@ -20,7 +20,7 @@ Please make sure to download and install the required libraries on your laptop p
 When the slides, data files, and other workshop materials are ready, I'll provide a link here to download them as a zipped folder.
 
 ### Pre-Workshop Survey
-A bit of info about you can help me customize the workshop to best address students' needs and goals. If you'd like to help out by completing a short, anonymous survey, please <a href="https://jenfly.typeform.com/to/sNEFUa" target="_blank">click here</a>.
+A bit of info about you can help me customize the workshop to best address students' needs and goals. If you'd like to help out by completing a short, anonymous survey, please **<a href="https://jenfly.typeform.com/to/sNEFUa" target="_blank">click here</a>**.
 
 
 ### Tentative Agenda
