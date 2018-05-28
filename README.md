@@ -39,7 +39,7 @@ A bit of info about you can help me customize the workshop to best address stude
 
 #### 3. Onwards and upwards
 
-- Visual storytelling with data: a brief tour of the Python landscape
+- Data visualization: a brief tour of the Python landscape
 - Next steps, ideas, and inspiration
 
 **Credits**: Some portions of this workshop are adapted from or inspired by the fantastic [Python for ecologists](http://www.datacarpentry.org/python-ecology-lesson/) instructional materials (Copyright © [Software Carpentry](http://software-carpentry.org/)) made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
