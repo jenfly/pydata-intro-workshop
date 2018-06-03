@@ -51,7 +51,7 @@ In either the Windows or the Mac version of the console, type `conda list` and t
 
 To install the libraries you'll need for the workshop, enter the following command in your console window:
 ```
-conda install jupyter jupyterlab numpy pandas matplotlib seaborn
+conda install jupyterlab numpy pandas matplotlib seaborn
 ```
 
 In the console window, you'll see a bunch of text flash by. If you scroll up to where you entered the command, you should see something similar to this:
@@ -74,6 +74,6 @@ We'll be using a program called Jupyter Lab, so you'll want to make sure it's wo
 
 ### Option C: Installation with `pip`
 
-If you already use `pip` and prefer to use it for package management, go forth and do your thing! You'll want a Python 3.6 environment with `jupyter`, `jupyterlab`, `numpy`, `pandas`, `matplotlib`, and `seaborn`.
+If you already use `pip` and prefer to use it for package management, go forth and do your thing! You'll want a Python 3.6 environment with `jupyterlab`, `numpy`, `pandas`, `matplotlib`, and `seaborn`.
 
 [back to workshop main page](https://jenfly.github.io/pydata-intro-workshop/)
