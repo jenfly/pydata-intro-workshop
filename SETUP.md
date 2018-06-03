@@ -69,7 +69,13 @@ Then you can run the command `conda list` again in the console, and scroll throu
 
 #### Step 3: Test Jupyter Lab
 
-We'll be using a program called Jupyter Lab, so you'll want to make sure it's working. In the console window, run the command `jupyter lab`. A new tab should open up in your default web browser, which will look similar to the screenshot [shown above in Option A](#jupyterlab). If so, success!  You're all set! You can start exploring Jupyter Lab if you want, or just close the browser tab and close the console window to exit the program.
+We'll be using a program called Jupyter Lab, so you'll want to make sure it's working. In the console window, run the command:
+
+```
+jupyter lab
+```
+
+A new tab should open up in your default web browser, which will look similar to the screenshot [shown above in Option A](#jupyterlab). If so, success!  You're all set! You can start exploring Jupyter Lab if you want, or just close the browser tab and close the console window to exit the program.
 
 
 ### Option C: Installation with `pip`
