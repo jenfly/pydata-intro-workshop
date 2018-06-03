@@ -8,24 +8,23 @@ Below are a few different options for setting up your laptop for the workshop:
 
 ### Step 1: Download and Installation
 
-You can choose to install either the full Anaconda distribution with all the bells and whistles, or a bare bones version called Miniconda, which has minimal disk space requirements.
+You can choose to install either the full Anaconda distribution with all the bells and whistles, or a smaller version called Miniconda, which has lower disk space requirements.
 
 #### a) Full Anaconda distribution
 
-This option is the easiest but requires the most disk space. Select the **Python 3.6 version** for your operating system from the [Anaconda download page](https://www.anaconda.com/download/) and follow the installation instructions for [Windows](https://docs.anaconda.com/anaconda/install/windows) or [Mac](https://docs.anaconda.com/anaconda/install/mac-os).
-You'll need about **3 GB of free disk space** to install the full Anaconda distribution (the exact space requirements will be listed when you start the installation process). 
+This option is the easiest but you'll need about **3 GB of free disk space** (the exact space requirements will be listed when you start the installation process). Select the **Python 3.6 version** for your operating system from the [Anaconda download page](https://www.anaconda.com/download/) and follow the installation instructions for [Windows](https://docs.anaconda.com/anaconda/install/windows) or [Mac](https://docs.anaconda.com/anaconda/install/mac-os), using all the default settings. 
 
 With the full Anaconda distribution, you'll immediately have access to all the main data analysis libraries without having to find and install them yourself. 
 
-### b) Miniconda
+#### b) Miniconda
 
-If disk space is an issue, you can instead install Miniconda, which has minimal disk space requirements. Miniconda is a bare bones installation that includes just Python, the `conda` package manager, and a few libraries that `conda` needs. From the [Miniconda download page](https://conda.io/miniconda.html), download the **Python 3.6 version** for your operating system, and follow the [installation instructions](https://conda.io/docs/user-guide/install/index.html). 
+If disk space is an issue, you can instead install Miniconda, a smaller version that includes just Python, the `conda` package manager, and a few libraries that `conda` needs. From the [Miniconda download page](https://conda.io/miniconda.html), download the **Python 3.6 version** for your operating system, and follow the [installation instructions](https://conda.io/docs/user-guide/install/index.html), using all the default settings. 
 
 ### Step 2: Configuration
 
+Once you've installed Anaconda or Miniconda, there are a few additional steps required to configure the software and verify that it is working.
 
-
-To use any other 3rd party libraries, you'll need to install them yourself with `conda`. For the workshop, you'll want to set up a mini data analysis ecosystem for yourself, by running the command `conda install ipython jupyter notebook numpy pandas matplotlib seaborn` in the Anaconda Prompt as in the screenshot below. Follow the prompts to confirm that you want to download and install these libraries, and `conda` will do the rest for you.
+To use any other 3rd party libraries, you'll need to install them yourself with `conda`. For the workshop, you'll want to set up a mini data analysis ecosystem for yourself, by running the command `conda install jupyter jupyterlab numpy pandas matplotlib seaborn` in the Anaconda Prompt as in the screenshot below. Follow the prompts to confirm that you want to download and install these libraries, and `conda` will do the rest for you.
 
 ![screenshot](img/screenshots/miniconda.png)
 
