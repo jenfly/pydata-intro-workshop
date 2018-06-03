@@ -54,7 +54,7 @@ To install the libraries you'll need for the workshop, enter the following comma
 conda install jupyterlab numpy pandas matplotlib seaborn
 ```
 
-In the console window, you'll see a bunch of text flash by. If you scroll up to where you entered the command, you should see something similar to this:
+After a moment, you'll see a bunch of text flash by in the console window. If you scroll up to where you entered the command, you should see something similar to this:
 ![Miniconda Jupyter](img/screenshots/miniconda_jupyter1.png)
 
 And then if you scroll back down to the end of the text on the screen, you should see something similar to this:
