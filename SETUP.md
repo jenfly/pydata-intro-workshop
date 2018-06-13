@@ -61,7 +61,7 @@ And then if you scroll back down to the end of the text on the screen, you shoul
 
 ![Miniconda Jupyter 2](img/screenshots/miniconda_jupyter2.png)
 
-Type `y` and hit `Enter` to confirm that you want to download and install these libraries, and `conda` will do the rest for you. When it's finished installing, you should see something similar to this:
+Type `y` and hit `Enter` to confirm that you want to download and install these libraries, and `conda` will do the rest for you. When it's finished installing, you should see lines on your screen that say something like `Preparing transaction: done`, `Verifying transaction: done`, and `Executing transaction: done`, possibly with some additional text in between, as in the screenshot below:
 
 ![Miniconda Jupyter 3](img/screenshots/miniconda_jupyter3.png)
 
