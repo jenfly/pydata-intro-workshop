@@ -28,7 +28,7 @@ A bit of info about you can help me customize the workshop to best address stude
 #### 1. Getting oriented
 
 - Navigating the Python world as a data geek
-- Human-centered, interactive tools: IPython and Jupyter
+- Jupyter Lab: Human-centered, interactive Python
 - Quick recap of Python basics
 
 #### 2. The power of Pandas
