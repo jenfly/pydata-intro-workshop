@@ -12,7 +12,7 @@ This option is the easiest to set up and start using, especially if you don't ha
 
 #### Step 1: Download and Install
 
-Download the **Python 3.6 version** for your operating system from the **[Anaconda download page](https://www.anaconda.com/download/)** and run the installer, making sure to use all the recommended default settings. It could take up to half an hour to install, so once you've walked through the initial prompts and clicked "Install", you might want to grab some lunch or go for a walk, leaving your laptop plugged in so it doesn't try to go to sleep.
+Click the "Download" button under **Python 3.6 version** from the **[Anaconda download page](https://www.anaconda.com/download/)** (the web page should automatically detect your operating system and provide the correct version of the installer with the "Download" button). After it finishes downloading, run the installer, making sure to use all the recommended default settings. It could take up to half an hour to install, so once you've walked through the initial prompts and clicked "Install", you might want to grab some lunch or go for a walk, leaving your laptop plugged in so it doesn't try to go to sleep.
 
 For more details on the intallation steps, you can check out the instructions for [Windows](https://docs.anaconda.com/anaconda/install/windows) or [Mac](https://docs.anaconda.com/anaconda/install/mac-os). *Note: the Windows installer says 3 GB free space is required, but on my computer I found that the software uses almost double that. These numbers might be a bit different on Mac.*
 
@@ -25,7 +25,7 @@ To make sure the software is working properly, look for a newly installed progra
 ![Anaconda Navigator](img/screenshots/navigator.png)
 
 
-We'll be using a program called Jupyter Lab, so you'll want to make sure it's working. Select `jupyterlab` from the Anaconda Navigator dashboard and a new tab should open up in your default web browser, which will look similar to the screenshot below. If so, success!  You're all set! You can start exploring Jupyter Lab if you want, or just close the browser tab and close the Anaconda Navigator window to exit the program.
+We'll be using a program called Jupyter Lab, so you'll want to make sure it's working. Look for the "lab" icon on the Anaconda Navigator dashboard, and click the "Launch" button to open Jupyter Lab. A new tab should open up in your default web browser, which will look similar to the screenshot below. If so, success!  You're all set! You can start exploring Jupyter Lab if you want, or just close the browser tab and close the Anaconda Navigator window to exit the program.
 
 <a id="jupyterlab"></a>
 
