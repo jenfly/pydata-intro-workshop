@@ -1,3 +1,5 @@
+**Workshop materials in the Github repo are still under development! I'll post an announcement here when they are finalized and ready for download.**
+
 # Intro to Data Analysis in Python
 ## PyLadies Vancouver Workshop
 
@@ -16,10 +18,6 @@ You'll want to bring your laptop for lots of hands-on practice as we work throug
 **Please make sure to download and install the required software on your laptop prior to the workshop ([click here for setup instructions](https://jenfly.github.io/pydata-intro-workshop/SETUP)).**
 
 When the slides, data files, and other workshop materials are ready, I'll provide a link here to download them as a zipped folder.
-
-### Pre-Workshop Survey
-A bit of info about you can help me customize the workshop to best address students' needs and goals. If you'd like to help out by completing a short, anonymous survey, please **<a href="https://jenfly.typeform.com/to/sNEFUa" target="_blank">click here</a>**.
-
 
 ### Tentative Agenda
 
