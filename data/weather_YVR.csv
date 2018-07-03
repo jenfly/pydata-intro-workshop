@@ -1,4 +1,4 @@
-Datetime,Hour of Day,Conditions,Temperature (C),Relativehumidity(%)
+Datetime,Hour of Day,Conditions,Temperature (C),Relative Humidity (%)
 2018-05-21 22:00:00,22,Mainly Clear,14.8,75.0
 2018-05-21 23:00:00,23,Clear,13.5,76.0
 2018-05-22 00:00:00,0,Clear,13.1,77.0
