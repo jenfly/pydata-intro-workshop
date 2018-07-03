@@ -1,5 +1,3 @@
-**Coming soon in July 2018!** Right now, the Github repo above is mostly just a collection of my notes and brain dumps. Soon this mess will magically morph into slides and exercises for a half-day interactive workshop.
-
 # Intro to Data Analysis in Python
 ## PyLadies Vancouver Workshop
 
@@ -42,4 +40,4 @@ A bit of info about you can help me customize the workshop to best address stude
 - Data visualization: a brief tour of the Python landscape
 - Next steps, ideas, and inspiration
 
-**Credits**: Some portions of this workshop are adapted from or inspired by the fantastic [Python for ecologists](http://www.datacarpentry.org/python-ecology-lesson/) instructional materials (Copyright © [Software Carpentry](http://software-carpentry.org/)) made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
+**Credits**: Some portions of this workshop are adapted from or inspired by the fantastic instructional materials in [Data Insights with Python for Beginners](https://github.com/ladieslearningcode/llc-intro-to-python) (Copyright © [Ladies Learning Code](https://www.canadalearningcode.ca/program/ladies-learning-code/)) and [Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/) (Copyright © [Software Carpentry](http://software-carpentry.org/)), both made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
