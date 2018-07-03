@@ -1,4 +1,4 @@
-**Workshop materials in the Github repo are still under development! I'll post an announcement here when they are finalized and ready for download.**
+**NOTE: Workshop materials in the Github repo are still under development! I'll post an announcement here when they are finalized and ready for download.**
 
 # Intro to Data Analysis in Python
 ## PyLadies Vancouver Workshop
