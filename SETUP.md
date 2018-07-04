@@ -1,6 +1,6 @@
 # Computer Setup Instructions
 
-We'll be using Python 3.6, `jupyterlab`, and `pandas`. If you're new to Python and/or data analysis is your main reason for using Python, I highly recommend using **Anaconda** to set up your environment. Anaconda is a Python distribution which includes core Python plus a package manager (`conda`) to manage all the 3rd party libraries you'll want to use when analyzing data.
+We'll be using Python 3.6, Jupyter Lab, and `pandas`. If you're new to Python and/or data analysis is your main reason for using Python, I highly recommend using **Anaconda** to set up your environment. Anaconda is a Python distribution which includes core Python plus a package manager (`conda`) to manage all the 3rd party libraries you'll want to use when analyzing data.
 
 Below are a few different options for setting up your laptop for the workshop. Since we'll be working with a powerful suite of tools, comparable to Excel or other software, the disk space requirements are significant&mdash;you'll need at least **4 GB of free disk space**.
 
