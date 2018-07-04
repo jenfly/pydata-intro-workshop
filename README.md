@@ -19,23 +19,17 @@ You'll want to bring your laptop for lots of hands-on practice as we work throug
 
 When the slides, data files, and other workshop materials are ready, I'll provide a link here to download them as a zipped folder.
 
-### Tentative Agenda
-
-#### 1. Getting oriented
+### Agenda
 
 - Navigating the Python world as a data geek
-- Jupyter Lab: Human-centered, interactive Python
-- Quick recap of Python basics
-
-#### 2. The power of Pandas
-
-- Loading and summarizing spreadsheet data
-- Creating graphs
-- Diving deeper into data analysis
-
-#### 3. Onwards and upwards
-
+- Jupyter Lab orientation + quick recap of Python basics
+- Working with spreadsheet data
+  - Reading and summarizing CSV files
+  - Basic calculations and graphs
+  - Text data and messy / missing data
+  - Sorting, aggregation, and subsets
 - Data visualization: a brief tour of the Python landscape
 - Next steps, ideas, and inspiration
+
 
 **Credits**: Some portions of this workshop are adapted from or inspired by the fantastic instructional materials in [Data Insights with Python for Beginners](https://github.com/ladieslearningcode/llc-intro-to-python) (Copyright © [Ladies Learning Code](https://www.canadalearningcode.ca/program/ladies-learning-code/)) and [Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/) (Copyright © [Software Carpentry](http://software-carpentry.org/)), both made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
