@@ -12,7 +12,9 @@ You'll want to have the software installed and working properly before the works
 
 ### Option A: Full Anaconda Distribution
 
-This option is the easiest to set up and start using, especially if you don't have much experience working in the Command Prompt (Windows) or Terminal (Mac). However, this option **requires the most disk space&mdash;just under 6 GB** on Windows and I'm assuming similar on a Mac.
+This option is the easiest to set up and start using, especially if you don't have much experience working in the Command Prompt (Windows) or Terminal (Mac). The full Anaconda distribution includes Python, Jupyter Lab, and all the data analysis libraries we'll be using in the workshop (plus hundreds of others).
+
+However, this option **requires the most disk space&mdash;just under 6 GB** on Windows and I'm assuming similar on a Mac.
 
 #### Step 1: Download and Install
 
