@@ -1,5 +1,3 @@
-**NOTE: Workshop materials in the Github repo are still under development! I'll post an announcement here when they are finalized and ready for download.**
-
 # Intro to Data Analysis in Python
 ## PyLadies Vancouver Workshop
 
@@ -13,7 +11,7 @@ Working with real-world data and the [Pandas](https://pandas.pydata.org/) librar
 
 ### Setup
 
-You'll want to bring your laptop for lots of hands-on practice as we work through the lessons and exercises. We'll be using Python 3.6, Jupyter Lab, numpy, pandas, matplotlib, and seaborn. I highly recommend using Anaconda to set up your environment, especially if you're new to Python and/or data analysis is your main reason for using Python. 
+You'll want to bring your laptop for lots of hands-on practice as we work through the lessons and exercises. We'll be using Python 3.6, Jupyter Lab, numpy, pandas, matplotlib, and seaborn. I highly recommend using Anaconda to set up your environment, especially if you're new to Python and/or data analysis is your main reason for using Python.
 
 **Please make sure to download and install the required software on your laptop prior to the workshop ([click here for setup instructions](https://jenfly.github.io/pydata-intro-workshop/SETUP)).**
 
