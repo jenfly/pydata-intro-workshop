@@ -1,6 +1,6 @@
 # Computer Setup Instructions
 
-We'll be using Python 3.6, `jupyterlab`, and `pandas`. If you're new to Python and/or data analysis is your main reason for using Python, I highly recommend using **Anaconda** to set up your environment. Anaconda is a Python distribution which includes core Python plus a package manager (`conda`) to manage all the 3rd party libraries you'll want to use when analyzing data.
+We'll be using Python 3.6, Jupyter Lab, and `pandas`. If you're new to Python and/or data analysis is your main reason for using Python, I highly recommend using **Anaconda** to set up your environment. Anaconda is a Python distribution which includes core Python plus a package manager (`conda`) to manage all the 3rd party libraries you'll want to use when analyzing data.
 
 Below are a few different options for setting up your laptop for the workshop. Since we'll be working with a powerful suite of tools, comparable to Excel or other software, the disk space requirements are significant&mdash;you'll need at least **4 GB of free disk space**.
 
@@ -12,13 +12,15 @@ You'll want to have the software installed and working properly before the works
 
 ### Option A: Full Anaconda Distribution
 
-This option is the easiest to set up and start using, especially if you don't have much experience working in the Command Prompt (Windows) or Terminal (Mac). However, this option **requires the most disk space&mdash;just under 6 GB** on Windows and I'm assuming similar on a Mac.
+This option is the easiest to set up and start using, especially if you don't have much experience working in the Command Prompt (Windows) or Terminal (Mac). The full Anaconda distribution includes Python, Jupyter Lab, and all the data analysis libraries we'll be using in the workshop (plus hundreds of others).
+
+However, this option **requires the most disk space&mdash;just under 6 GB** on Windows and I'm assuming similar on a Mac.
 
 #### Step 1: Download and Install
 
-Click the "Download" button under **Python 3.6 version** from the **[Anaconda download page](https://www.anaconda.com/download/)** (the web page should automatically detect your operating system and provide the correct version of the installer with the "Download" button). After it finishes downloading, run the installer, making sure to use all the recommended default settings. It could take up to half an hour to install, so once you've walked through the initial prompts and clicked "Install", you might want to grab some lunch or go for a walk, leaving your laptop plugged in so it doesn't try to go to sleep.
+Click the "Download" button under **Python 3.6 version** from the **[Anaconda download page](https://www.anaconda.com/download/)** (the web page should automatically detect your operating system and provide the correct version of the installer with the "Download" button). After it finishes downloading, run the installer, making sure to use all the recommended default settings. We won't be using Microsoft Visual Studio Code, so when the installer asks if you want to install it, you can just click "Skip".
 
-For more details on the intallation steps, you can check out the instructions for [Windows](https://docs.anaconda.com/anaconda/install/windows) or [Mac](https://docs.anaconda.com/anaconda/install/mac-os). *Note: the Windows installer says 3 GB free space is required, but on my computer I found that the software uses almost double that. These numbers might be a bit different on Mac.*
+It could take up to half an hour to install, so once you've walked through the initial prompts and clicked "Install", you might want to grab some lunch or go for a walk, leaving your laptop plugged in so it doesn't try to go to sleep. For more details on the intallation steps, you can check out the instructions for [Windows](https://docs.anaconda.com/anaconda/install/windows) or [Mac](https://docs.anaconda.com/anaconda/install/mac-os). *Note: the Windows installer says 3 GB free space is required, but on my computer I found that the software uses almost double that. These numbers might be a bit different on Mac.*
 
 Once you've installed the full Anaconda distribution, you'll immediately have access to all the main data analysis libraries without having to find and install them yourself!
 
