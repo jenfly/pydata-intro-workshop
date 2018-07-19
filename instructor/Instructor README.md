@@ -10,4 +10,4 @@ Currently, `RISE` does **not** work in Jupyter Lab. You need to open these noteb
 
 For the file paths to work, you need to move the Jupyter notebooks (`*.ipynb`) and `rise.css` up to the main project folder, or make copies of the `data` and `img` folders within the `instructor` folder.
 
-To present the slideshow as a live demo, use the commands in the "Kernel" menu or "Cell" menu to clear the output of all cells.
+To present the slideshow as a live demo, you can first clear the output of all cells using the commands in the "Kernel" menu or "Cell" menu.
