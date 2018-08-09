@@ -7,7 +7,7 @@ Below are a few different options for setting up your laptop for the workshop. S
 You'll want to have the software installed and working properly before the workshop starts. Sometimes a few minor tweaks are needed to get the software working on different systems, so if you have any problems please email me (jenfly@gmail.com) to help you sort things out.
 
 #### Data and Workshop Materials
-**July 4 Update**: Data files and other workshop materials are now ready for download! Please go to [https://github.com/jenfly/pydata-intro-workshop](https://github.com/jenfly/pydata-intro-workshop), click the green button that says "Clone or download", and then select "Download ZIP" to download the zipped folder to your computer.
+**July 4, 2018 Update**: Data files and other workshop materials are now **[ready for download](https://github.com/jenfly/pydata-intro-workshop/archive/master.zip)**!
 
 
 ### Option A: Full Anaconda Distribution
